@@ -1,13 +1,13 @@
 {
-  "name": "you-project-name",
+  "name": "lab-angular",
   "version": "1.0.0",
-  "description": "Description of your project",
+  "description": "Um laboratório para aprendizado do AngularJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Your Name",
-  "git repository": "git@github:davidalves1/lab-angular.git",
+  "git repository": "git@github.com:davidalves1/lab-angular.git",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.13.2",
