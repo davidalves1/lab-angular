@@ -32,7 +32,7 @@ gulp.task('minjs', function() {
 gulp.task('stylus', function() {
     return gulp
         // Define a origem dos arquivos .scss
-        .src('src/stylus/**/*/.styl')
+        .src('src/stylus/**/*.styl')
         // Prevençãao de erros
         .pipe(plumber())
         // Realiza o pré-processamento para css

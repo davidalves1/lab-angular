@@ -1,7 +1,5 @@
-'use strict';
+(function() {
+	'use strict';
 
-const a = 2;
-
-let soma = (a, b) => a + b
-
-soma(2,2);
+	angular.module('lab', []);
+})();
